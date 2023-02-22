@@ -12,7 +12,7 @@ Responsive website was created using HTML &amp; CSS
 
 ## Screenshots
 
-![A_Farajallah](https://user-images.githubusercontent.com/126039300/220519127-355c1d4a-e30d-4cea-99e4-4c3bf9a20f9e.jpeg)
+![A_Farajallah--All Website](https://user-images.githubusercontent.com/126039300/220519127-355c1d4a-e30d-4cea-99e4-4c3bf9a20f9e.jpeg "All Website")
 
 
 ## Built With
@@ -23,5 +23,3 @@ Responsive website was created using HTML &amp; CSS
 ## Author
 
 **Ahmed Ali Farajallah**
-
-- [Email](mailto:ahmedfarajallah00@gmail.com)
