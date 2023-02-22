@@ -1,2 +1,27 @@
 # A_Farajallah
-Website was created using HTML &amp; CSS 
+
+Responsive website was created using HTML &amp; CSS 
+
+
+## Links
+
+- [Repo] (<https://github.com/ahmedalifarajallah/A_Farajallah/> "A_Farajallah")
+
+- [Live] (<https://ahmedalifarajallah.github.io/A_Farajallah/>)
+
+
+## Screenshots
+
+![A_Farajallah](https://user-images.githubusercontent.com/126039300/220519127-355c1d4a-e30d-4cea-99e4-4c3bf9a20f9e.jpeg)
+
+
+## Built With
+
+- HTML
+- CSS
+
+## Author
+
+**Ahmed Ali Farajallah**
+
+- [Email](mailto:ahmedfarajallah00@gmail.com)
